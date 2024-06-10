@@ -1,0 +1,1 @@
+This is a sample git repository to learn how to use Git and Github.
